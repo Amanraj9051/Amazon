@@ -1,0 +1,62 @@
+.checkout_wrap{
+    max-width:600px ;
+    margin: 0px 20px;
+    margin-top: 30px;
+}
+.checkout__form{
+    display: grid;
+    grid-template-columns: auto auto ;
+}
+.checkout_column{
+margin-bottom: 20px;
+margin-right: 20px;
+}
+.checkout_column label{
+    display: block;
+}
+.MuiInput-root {
+    width: 100%;
+}
+.checkout_column input{
+    width: 100%;
+}
+.checkout_column select{
+    width: 100%;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    padding: 10px 0px;
+}
+.checkout_column button{
+    background-color: #f0c14b;
+    border-radius: 5px;
+    width: 100%;
+    bottom: 0;
+    outline: 0;
+    cursor: pointer;
+    padding: 10px 0px;
+}
+.order__confirm{
+    width: 600px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 20px;
+
+}
+.order__confirm h3{
+    background-color: black;
+    color: #fff;
+    margin: 20px 0px;
+    padding: 10px 0px;
+}
+.order__confirm button{
+    background-color: #f0c14b;
+    border-radius: 5px;
+    width: 60%;
+    bottom: 0;
+    outline: 0;
+    cursor: pointer;
+    padding: 10px 30px;
+    margin-top: 30px;
+}

@@ -1,0 +1,10 @@
+.foot-panel1{
+    margin-top: 15px;
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
